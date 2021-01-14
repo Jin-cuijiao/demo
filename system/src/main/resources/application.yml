@@ -1,0 +1,6 @@
+server:
+  port: 8080
+#多环境配置
+spring:
+  profiles:
+    active: test

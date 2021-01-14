@@ -1,0 +1,2 @@
+com/ssm/common/serializer/MyStringRedisSerializer.class
+com/ssm/common/config/RedisConfig.class
